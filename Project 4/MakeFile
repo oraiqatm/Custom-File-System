@@ -1,0 +1,3 @@
+Filesys: Filesys.cpp Sdisk.cpp 
+	g++ -o Filesys Filesys.cpp Sdisk.cpp
+
